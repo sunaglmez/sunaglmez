@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=007BFF&center=true&vCenter=true&repeat=false&random=false&width=335&lines=Hi+%F0%9F%91%8B%2C+I'm+Suna" alt="Typing SVG" alt="Typing SVG" alt="Typing SVG" /></a></h1>
+
 Hello, I'm Suna. I am currently focusing on Python programming, Data Science, SQL, Algorithms, and Artificial Intelligence. I am working on various projects to reinforce my theoretical knowledge with practical experience. Through these projects, I aim to apply what I have learned and share it with others.
 
 
