@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hello, I'm Suna. I have expertise in Python programming, Data Science, SQL, Algorithms, and Artificial Intelligence. I am working on various projects to reinforce my theoretical knowledge with practical experience. Through these projects, I aim to apply what I have learned and share it with others.
+Hello, I'm Suna. I am currently focusing on in Python programming, Data Science, SQL, Algorithms, and Artificial Intelligence. I am working on various projects to reinforce my theoretical knowledge with practical experience. Through these projects, I aim to apply what I have learned and share it with others.
 
 
 ## Languages and Tools 
