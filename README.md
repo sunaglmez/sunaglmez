@@ -1,11 +1,6 @@
-## Hi there 👋
+### Hi there 👋
 Hello, I'm Suna. I have expertise in Python programming, Data Science, SQL, Algorithms, and Artificial Intelligence. I am working on various projects to reinforce my theoretical knowledge with practical experience. Through these projects, I aim to apply what I have learned and share it with others.
 
-- 🔭 I’m currently working on: Reinforcing theoretical knowledge with practical projects in Python programming, Data Science, SQL, Algorithms, and Artificial Intelligence.
-- 🌱 I’m currently learning: Advanced topics in Data Science and Machine Learning models.
-- 👯 I’m looking to collaborate on: Open-source projects related to AI or Data Science.
-- 🤔 I’m looking for help with: Optimizing algorithms and improving model performance.
-- 💬 Ask me about: Python programming, Data Science techniques, SQL queries, and AI algorithms.
 
 ## Languages and Tools 
 <div>
